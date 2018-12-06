@@ -11,6 +11,11 @@ namespace EgeszSzamok
         static void Main(string[] args)
         {
             int a = 0, b = 1;
+
+            Console.WriteLine("a=" + a + "\nb=" + b);
+
+            Console.ReadKey();
+
         }
     }
 }
