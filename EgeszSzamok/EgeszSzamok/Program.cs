@@ -10,7 +10,7 @@ namespace EgeszSzamok
     {
         static void Main(string[] args)
         {
-            int a, b;
+            int a, c, b;
         }
     }
 }
